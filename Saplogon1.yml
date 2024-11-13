@@ -16,4 +16,4 @@ jobs:
     - name: Setup SAP Logon Script
       run: |
         echo 'Opening SAP Logon'
-        C:\path\to\your\open_sap_logon.bat   # Make sure the batch file is in your repo or defined path
+        D:\Saplogon1.bat   # Make sure the batch file is in your repo or defined path
